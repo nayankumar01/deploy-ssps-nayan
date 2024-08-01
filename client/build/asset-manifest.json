@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6593046a.css",
+    "main.js": "/static/js/main.ddb75b9c.js",
+    "static/js/703.9af08c09.chunk.js": "/static/js/703.9af08c09.chunk.js",
+    "static/js/513.aabcf4a5.chunk.js": "/static/js/513.aabcf4a5.chunk.js",
+    "static/js/787.f0e26221.chunk.js": "/static/js/787.f0e26221.chunk.js",
+    "static/media/Students walking in front of university flat vector illustration.jpg": "/static/media/Students walking in front of university flat vector illustration.a5284662ebc755f21dc2.jpg",
+    "index.html": "/index.html",
+    "main.6593046a.css.map": "/static/css/main.6593046a.css.map",
+    "main.ddb75b9c.js.map": "/static/js/main.ddb75b9c.js.map",
+    "703.9af08c09.chunk.js.map": "/static/js/703.9af08c09.chunk.js.map",
+    "513.aabcf4a5.chunk.js.map": "/static/js/513.aabcf4a5.chunk.js.map",
+    "787.f0e26221.chunk.js.map": "/static/js/787.f0e26221.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6593046a.css",
+    "static/js/main.ddb75b9c.js"
+  ]
+}
